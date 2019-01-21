@@ -1,4 +1,4 @@
-![logo](http://image.luokangyuan.com/2018-08-30-145924.png)
+![logo](/images/2018-08-30-145924.png)
 
 # Java学习笔记
 

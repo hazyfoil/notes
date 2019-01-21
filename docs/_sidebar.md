@@ -10,5 +10,5 @@
 * [JavaScript高级学习总结](summarynote/JavaScript高级学习总结)
 * [jQuery学习总结](summarynote/jQuery学习总结)
 
-* [Vue学习笔记总结](studynote/vue)
+* [Vue学习笔记总结](summarynote/vue)
 
